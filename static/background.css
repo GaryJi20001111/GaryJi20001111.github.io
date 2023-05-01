@@ -2,7 +2,7 @@ html,
 body{
     overflow-y:scroll;
     margin: 0;
-    background-image:url('./charles50.jpg');
+    background-image:url('./static/Charles50.jpg');
     background-size:cover;
     background-position: bottom right;
     opacity: 1;
